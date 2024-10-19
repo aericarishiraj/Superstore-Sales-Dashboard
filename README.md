@@ -33,9 +33,7 @@ Open Superstore.twb in Tableau Desktop or Tableau Public to explore the dashboar
 Drill-downs: Add more granular drill-downs for regional and category data.
 Predictive Analytics: Implement forecast models to predict future sales and profitability.
 Custom Filters: Add more filters to allow users to explore the data based on different criteria.
+
 📞 Contact
 For any questions or suggestions, feel free to reach out:
-
-Email: your.email@example.com
-GitHub: Your GitHub Profile
-css
+Email: aerica.rishiraj@ucdconnect.ie
